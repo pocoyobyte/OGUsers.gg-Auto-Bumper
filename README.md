@@ -14,3 +14,9 @@ This code is a Python script that creates an automatic thread bumper application
 9. Finally, in the if __name__ == '__main__': block, create an instance of the QApplication, instantiate the AutobumperApp class, show the application window, and start the application event loop.
 
 When run, this script will display a window where users can input their login credentials, a thread URL, a bump interval, and a bump message. Users can then log in, start the autobump process, and stop it as needed. The script will simulate human-like typing to post replies on the given thread URL at the specified interval.
+
+
+**COMMON ERROS**
+1. No Module Found - If you run the main.py in CMD and it says this then you need to download the dependencies that it lists - pip install (name) in the cmd
+2. Chrome isntant crash - If you crash when you login, it means your chrome browser is not updated to the latest browser which as of 05/05/2023 it is version 113
+3. Mouse Bump Error - Not fully recognized but if your mouse is too far off the screen, it will throw an error since the program is supposed to simulate human input it does this for some reason 🤔
