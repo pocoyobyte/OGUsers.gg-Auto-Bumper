@@ -20,3 +20,5 @@ When run, this script will display a window where users can input their login cr
 1. No Module Found - If you run the main.py in CMD and it says this then you need to download the dependencies that it lists - pip install (name) in the cmd
 2. Chrome isntant crash - If you crash when you login, it means your chrome browser is not updated to the latest browser which as of 05/05/2023 it is version 113
 3. Mouse Bump Error - Not fully recognized but if your mouse is too far off the screen, it will throw an error since the program is supposed to simulate human input it does this for some reason 🤔
+
+[Program UI](https://cdn.discordapp.com/attachments/1061007686600233044/1104146112836800552/Screenshot_2023-05-05_214214.png)
